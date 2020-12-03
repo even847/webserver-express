@@ -1,0 +1,19 @@
+
+footer {
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 20px;
+}
+
+#planeta p{
+    color: blue;
+}
+
+#img img {
+    border: 5px solid blue;
+    border-radius: 100%;
+}
